@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Yogs4R
+/src/backend/database.py      @Yogs4R
+/src/backend/routers/auth.py  @Yogs4R
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Yogs4R
